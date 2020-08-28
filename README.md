@@ -7,7 +7,7 @@
 
 ## 📢 About
 
-**GitRepos** is an React project that add and list repositories from github, it's informations and issues.
+**GitRepos** is a React project that add and list repositories from github, it's informations and issues.
 
 ## ⚡ Tools
 
