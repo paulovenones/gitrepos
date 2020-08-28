@@ -1,7 +1,8 @@
 # proffy
 
 <h1 align="center">
-  <img src="https://github.com/paulovenones/proffy/blob/master/banner.png" alt="Proffy"/>
+  <img src="https://github.com/paulovenones/gitrepos/blob/master/home.png?raw=true" alt="Home"/>
+  <img src="https://github.com/paulovenones/gitrepos/blob/master/repo.png?raw=true" alt="Repository"/>
 </h1>
 
 Link to access [Demo](https://proffy-webapp.vercel.app/)
